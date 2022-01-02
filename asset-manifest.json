@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/burger/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/burger/static/js/main.0f08dded.js",
+    "static/js/787.34fea7ec.chunk.js": "/github.io/burger/static/js/787.34fea7ec.chunk.js",
+    "static/media/logo.svg": "/github.io/burger/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/burger/index.html",
+    "main.073c9b0a.css.map": "/github.io/burger/static/css/main.073c9b0a.css.map",
+    "main.0f08dded.js.map": "/github.io/burger/static/js/main.0f08dded.js.map",
+    "787.34fea7ec.chunk.js.map": "/github.io/burger/static/js/787.34fea7ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0f08dded.js"
+  ]
+}
